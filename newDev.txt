@@ -1,2 +1,3 @@
 devfile.
 addTwo.
+addBylocal.
